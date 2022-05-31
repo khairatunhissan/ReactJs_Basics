@@ -61,7 +61,7 @@ var y=5
 ```
 output:  NaN 
 
-কারণ var y=undefined এইজন্য x+y= Nan
+কারণ var y=undefined এইজন্য a+y= Nan
 
 # Example-5
 ```javascript
