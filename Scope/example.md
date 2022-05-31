@@ -54,7 +54,7 @@ dog
 ```javascript
 var a=10
 function check(){
-    console.log(x+y)
+    console.log(a+y)
 }
 check()
 var y=5
